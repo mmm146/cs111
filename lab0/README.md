@@ -7,7 +7,7 @@ TODO: cmd for build
 ```
 
 ## Running
-inert module to kernel
+insert module to kernel
 
 .ko file is kernel object file.
 ```shell
