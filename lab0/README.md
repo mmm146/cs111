@@ -7,8 +7,11 @@ TODO: cmd for build
 ```
 
 ## Running
+inert module to kernel
+
+.ko file is kernel object file.
 ```shell
-TODO: cmd for running binary
+sudo insmod proc_count.ko
 ```
 TODO: results?
 
