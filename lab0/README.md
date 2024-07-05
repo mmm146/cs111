@@ -2,14 +2,15 @@
 add a file called count in proc directory which count the current number of process.
 
 ## Building
-```shell
-TODO: cmd for build
-```
-
-## Running
 insert module to kernel
 
 .ko file is kernel object file.
+```shell
+sudo insmod proc_count.ko
+```
+
+## Running
+
 ```shell
 sudo insmod proc_count.ko
 ```
