@@ -1,5 +1,5 @@
 # A Kernel Seedling
-TODO: intro
+add a file called count in proc directory which count the current number of process.
 
 ## Building
 ```shell
